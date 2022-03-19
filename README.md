@@ -2,7 +2,7 @@ Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHein
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<img src="/giphy.gif" width="200px" align="right"> 
+<img src="/Work-Fun.gif" width="200px" align="right"> 
 <p align="left">
 
   ###
