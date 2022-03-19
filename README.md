@@ -35,17 +35,17 @@ Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHein
 ###
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark&hide"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vishnu-Sastry-HK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Sastry-HK&theme=dark&hide"/>
 </p>
 <!--
 <p align="left">
-  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=VishnuSastryHK&theme=default"/>
+  <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=Vishnu-Sastry-HK&theme=default"/>
  
 </p>
 
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnuSastryHK&show_icons=true&theme=radical)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu-Sastry-HK&show_icons=true&theme=radical)
 
 
 
