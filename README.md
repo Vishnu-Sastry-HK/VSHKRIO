@@ -50,12 +50,12 @@ Hi, I'm Vishnu Sastry H K <img src="https://raw.githubusercontent.com/MartinHein
 
 
 ###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VishnuSastryHK&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-Sastry-HK&theme=dark)](https://git.io/streak-stats)
 ###
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuSastryHK&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Sastry-HK&langs_count=5&theme=tokyonight)]()
 -->
 <p align="left">
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VishnuSastryHK&layout=compact&langs_count=8&theme=default"/>
+  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vishnu-Sastry-HK&layout=compact&langs_count=8&theme=default"/>
 </p>
 
 
